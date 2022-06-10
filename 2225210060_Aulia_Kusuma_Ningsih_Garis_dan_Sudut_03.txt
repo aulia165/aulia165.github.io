@@ -1,0 +1,666 @@
+GARIS DAN SUDUT
+
+
+Aulia Kusuma Ningsih
+Dr. Aan Hendrayana
+
+Untirta Press
+KATA PENGANTAR
+Puji dan syukur penulis panjatkan kehadirat Tuhan Yang Maha Esa atas berkat dan rahmat-Nya sehingga bahan ajar matematika garis dan sudut kelas 7 SMP ini dapat terselesaikan dengan baik dan tepat waktu.
+Bahan ajar ini terdiri dari 3 materi utama, yaitu (1) Hubungan antar garis; (2) Mengenal sudut; (3) Hubungan antar sudut. Materi adalah materi yang akan dipelajari oleh peserta didik sekolah menengah pertama semester 2.
+Tujuan dibuatnya bahan ajar ini untuk membantu peserta didik dalam menguasai konsep matematika secara sederhana, mudah, dan utuh. Kelebihan bahan ajar ini dilengkapi dengan ringkasan, latihan, dan evaluasi disetiap materi sehingga memudahkan peserta didik menguasai 3 materi tersebut.
+Dalam penulisan bahan ajar ini penulis merasa masih banyak kekurangan- kekurangan baik mengenai teknis penulisan ataupun mengenai garis dan sudut. Oleh karena itu, diperlukan kritik dan saran agar di masa yang akan datang penulis dapat memperbaiki. Demikian, semoga bahan ajar ini bermanfaat.  
+
+Bogor, Maret 2022
+Penulis 
+
+
+DAFTAR ISI
+
+KATA PENGANTAR	i
+DAFTAR ISI	ii
+DAFTAR GAMBAR	iv
+DAFTAR TABEL	v
+BAB 1 : Pendahuluan	1
+1.1 Peta Konsep	1
+1.2 Sekilas Garis dan Sudut	2
+1.3 Kompetensi Dasar pada Garis dan Sudut	3
+1.4 Kesulitan Pada Garis dan Sudut	3
+BAB 2 : Hubungan Antar Garis	4
+2.1 Peta Konsep	4
+2.2 Hubungan Titik dan Garis	4
+2.2.1 Titik terletak pada garis	5
+2.2.2 Titik terletak di luar  garis	5
+2.3 Hubungan Garis dan Bidang	5
+2.3.1 Garis terletak pada bidang	5
+2.3.2 Garis tidak pada bidang	6
+2.3.3 Garis menembus/ memotong bidang	6
+2.4 Hubungan Antar Dua Garis	7
+2.4.1 Dua Garis Sejajar	7
+2.4.2 Dua Garis Saling Berpotongan	7
+2.4.3 Dua Garis Berhimpit	8
+2.5 Ringkasan	10
+2.6 Latihan	11
+2.7 Evaluasi	12
+Pilihan Ganda	12
+Essay	13
+BAB 3 : Mengenal Sudut	15
+3.1 Peta Konsep	15
+3.2 Pengertian Sudut	15
+3.3 Jenis- Jenis Sudut	16
+3.4 Mengukur Sudut	18
+3.5 Mengukur Besar Sudut yang Dibentuk oleh Jarum Jam	19
+3.6 Ringkasan	20
+3.7 Latihan	21
+3.8 Evaluasi	22
+Pilihan Ganda	22
+Essay	22
+BAB 4 : Hubungan Antar Sudut	25
+4.1 Peta Konsep	25
+4.2 Sudut Berpelurus dan Sudut Berpenyiku	25
+4.2.1 Sudut Berpelurus	25
+4.2.2 Sudut Berpeyiku	26
+4.3 Pasangan Sudut yang Saling Bertolak Belakang	27
+4.4 Hubungan Sudut- Sudut pada Dua Garis Sejajar	28
+4.4.1 Sudut Sehadap	28
+4.4.2 Sudut Dalam Bersebrangan	28
+4.4.3 Sudut Luar Bersebrangan	28
+4.4.4 Sudut Dalam Sepihak	29
+4.4.5 Sudut Luar Sepihak	29
+4.4.6 Sudut Bertolak Belakang	29
+4.5 Ringkasan	30
+4.6 Latihan	31
+4.7 Evaluasi	33
+Pilihan Ganda	33
+Essay	35
+GLOSARIUM	37
+INDEKS	39
+DAFTAR PUSTAKA	40
+BIOGRAFI	41
+Aulia Kusuma Ningsih	41
+Aan Hendrayana	42
+
+
+
+DAFTAR GAMBAR
+Gambar 1 Buku sebagai sumber belajar	1
+Gambar 2 Jam Dinding	2
+Gambar 3 Titik terletak pada Garis	5
+Gambar 4 Titik di luar Garis	5
+Gambar 5 Garis Terletak Pada Bidang	6
+Gambar 6 Garis Tidak Terletak Pada Bidang	6
+Gambar 7 Garis Memotong/Menembus Bidang	7
+Gambar 8 Dua Garis Sejajar	7
+Gambar 9 Dua Garis Saling Berpotongan	8
+Gambar 10 Dua Garis Berpotongan Tegak Lurus	8
+Gambar 11 Dua Garis Berhimpit	9
+Gambar 12 Sudut yang Terbentuk dari Dua Sinar Garis	15
+Gambar 13 Sudut Lancip	16
+Gambar 14 Sudut Siku- Siku	16
+Gambar 15 Sudut Tumpul	17
+Gambar 16 Sudut Lurus	17
+Gambar 17 Sudut Refleks	17
+Gambar 18 Busur Derajat Alat untuk Mengukur Sudut	18
+Gambar 19 Cara Mengukur Suatu Sudut dengan Busur Derajat	18
+Gambar 20 Mengukur Sudut yang Dibentuk Jarum Jam	19
+Gambar 21 Sudut Berpelurus	26
+Gambar 22 Sudut Berpenyiku	26
+Gambar 23 Sudut yang Saling Bertolak Belakang	27
+Gambar 24 Hubungan Sudut- Sudut pada Dua Garis Sejajar	28
+
+
+DAFTAR TABEL
+Tabel 1 Kompetensi Dasar	3
+Tabel 2 Sub Materi yang Sulit pada Garis dan Sudut	3
+Tabel 3 Jenis- Jenis Sudut	17
+
+
+
+BAB 1 : Pendahuluan
+1.1 Peta Konsep 
+
+      Tantangan yang dihadapi oleh dunia pendidikan pada saat ini semakin meningkat karena tuntutan terhadap kualitas sumber manusia semkain meningkat. Salah satu tantangan ialah kurangnya minat baca peserta didik di zaman teknologi canggih ini sehingga peserta didik memiliki keinginan untuk mendapatkan sesuatu serba cepat dan instan membuat mereka malas untuk membaca dan mempelajari buku paket yang sudah diberikan oleh sekolah dan hanya mengandalkan mesin pencarian, seperti google. Tak hanya itu minimnya sumber belajar di beberapa sekolah menjadi hambatan dalam proses pembelajaran yang dilakukan. Keterbatasan sumber belajar akan berdampak pada kualitas peserta didik sebagai sumber manusia. 
+       
+Gambar 1 Buku sebagai sumber belajar 
+Sumber : https://2.bp.blogspot.com/-dE5H2WbOicw/XMgNs46pEpI/AAAAAAAABVU/Q2ugV_wEwkEr2Iw6YBLi3k2EdQEBxpwYACLcBGAs/s640/books-441866_960_720.jpg
+      Oleh karena itu, dibutuhkan suatu  bentuk bahan yang digunakan untuk membantu guru/instruktor dalam melaksanakan kegiatan belajar mengajar di kelas dan dengan memadukan prinsip kepraktisan. Bahan yang dapat membantu guru dalam melaksanakan kegiatan pembelajaran ini disebut bahan. Dengan dibuatnya bahan ajar garis dan sudut ini diharapkan membantu siswa dan mendorong siswa untuk tetep membaca dan mempelajari materi garis dan sudut tanpa adanya hambatan berupa kurang sumber bahan ajar ini. 
+1.2 Sekilas Garis dan Sudut
+
+Gambar 2 Jam Dinding 
+Sumber: https://cdn.pixabay.com/photo/2016/03/31/20/15/analog-clock-1295631_960_720.png 
+      Jam adalah alat ukur waktu dan fungsinya tidak lain adalah untuk mengetahui jam atau waktu pada tempat tersebut. Tempat seperti rumah, gedung dan tempat umum sudah terdapat jam dinding. Jam adalah salah satu penemuan paling tua. Jam analog bekerja secara manual dengan menggunakan tiga buah jarum yang berputar dan mengarah pada angka-angka di sekeliling jam. Selain itu, jam ini juga dapat menunjukan menit dan detik. Dua buah jarum yang berputar dan mengarah pada angka- angka di sekeliling jam memiliki titik temu dan membuat sebuah sudut. Adapun titik pertemuan antara kedua jarum tersebut dinamakan titik sudut.
+      Tahukah anda, apa sebenarnya yang dimaksud dengan garis dan sudut? Pada pembahasan kali ini, anda akan mempelajari cara memahami hubungan antar garis, sudut, dan hubungan antar sudut. Pada bahan ajar ini terdapat 3 materi, materi pertama anda akan mengenal hubungan antar garis, materi kedua anda akan mengenal apa itu sudut, dan  materi ketiga anda akan mengenal hubungan antar sudut. 
+      
+     
+
+1.3 Kompetensi Dasar pada Garis dan Sudut 
+Kompetensi Dasar3.10  Menganalisis hubungan antar sudut sebagai akibat dari dua garis sejajar yang dipotong oleh garis transversal.
+4. 10 Menelesaikan masalah yang berkaitam dengan hubungan antar sudut sebagai akibat dari dua garis sejajar yang dipotong oleh garis transversal.
+
+Tabel 1 Kompetensi Dasar
+1.4 Kesulitan Pada Garis dan Sudut  
+      Berdasarkan hasil survey yang dilakukan oleh penulis dalam bentuk kusioner. Berikut adalah sub materi yang sulit pada garis dan sudut ini, yaitu hubungan antar sudut, menentukan besar sudut, dan sudut-sudut sehadap dan bersebrangan. Pada sub materi hubungan antar sudut peserta didik merasa kesulitan sebab peserta didik sering merasa keliru pada konsepnya. Selanjutnya, pada sub materi menentukan besar sudut pada sub materi ini peserta didik merasa kesulitan dikarenakan bnayaknya jenis garis dan sudut banyak. Terakhir, pada sub materi sudut- sudut sehadap dan bersebrangan karena dua hal tersebut sulit untuk dibedakan. 
+SUB MATERI YANG SULITALASANHUBUNGAN ANTAR SUDUTPeserta didik merasa kesulitan sebab peserta didik sering merasa keliru pada konsepnyaMENENTUKAN BESAR SUDUTPeserta didik merasa kesulitan dikarenakan bnayaknya jenis garis dan sudut banyakSUDUT- SUDUT SEHADAP DAN BERSEBRANGANDua hal tersebut sulit untuk dibedakanTabel 2 Sub Materi yang Sulit pada Garis dan Sudut 
+
+BAB 2 : Hubungan Antar Garis 
+2.1 Peta Konsep  
+
+
+
+2.2 Hubungan Titik dan Garis 
+
+
+2.2.1 Titik terletak pada garis
+Titik terletak pada garis apabila titik tersebut berada pada garis sehingga titik tersebut menjadi bagian dari garis tersebut. Contoh : titik C berada tepat terletak pada garis f. Titik C merupakan bagian dari garis f. 
+
+Gambar 3 Titik terletak pada Garis
+2.2.2 Titik terletak di luar  garis
+Titik yang tidak terletak pada garis tersebut sehingga titik terebut tidak menjadi bagian dari garis tersebut dan titik tersebut terletak di luar garis. Contoh : titik E terletak di luar garis sehingga titik E tidak menjadi bagian garis f. 
+
+Gambar 4 Titik di luar Garis
+2.3 Hubungan Garis dan Bidang 
+2.3.1 Garis terletak pada bidang
+Jika suatu garis terletak pada bidang sehingga garis tersebut menjadi bagian dari bidang. Contoh : garis l terletak pada bidang M sehingga garis l menjadi bagian dari bidang M dan juga membagi bidang menjadi dua bagian bidang. 
+
+Gambar 5 Garis Terletak Pada Bidang
+2.3.2 Garis tidak pada bidang
+Letak suatu garis di luar bidang apabila garis tersebut  tidak menjadi bagian bidang. Contoh : garis k tidak terletak pada bidang atau di liar bidang letaknya dan tidak menjadi bagian dari bidang M.
+
+Gambar 6 Garis Tidak Terletak Pada Bidang
+2.3.3 Garis menembus/ memotong bidang
+Garis menembus/memotong bidang jika persekutuan antara garis dan bidang adalah sebuah titik. Contoh garis i menembus/ memotong bidang M sehingga muncul persekutuan antara garis i dengan bidang M, yakni titik G. 
+
+Gambar 7 Garis Memotong/Menembus Bidang
+2.4 Hubungan Antar Dua Garis 
+2.4.1 Dua Garis Sejajar
+Dua garis sejajar di bidang jika terdapat dua garis yang terletak pada satu bidang dan apabila dua garis tersebut diperpanjang maka garis tersebut tidak akan pernah berpotongan. Notasi dari dua garis sejajar ini adalah //. 
+
+Gambar 8 Dua Garis Sejajar 
+Pada gambar di atas terdapat dua garis, yakni garis g dan garis h yang dikatakan dua garis sejajar karena garis g dan garis h tersebut diperpanjang maka dua garis tersebut tidak akan pernah bertemu atau pun berpotongan. Maka  g//h. 
+2.4.2 Dua Garis Saling Berpotongan 
+Dua garis dikatakan saling berpotongan apabila mempunyai titik persekutuan, titik persekutuan ini biasa disebut titik potong. Notasi dua garis saling berpotongan adalah ×.
+
+Gambar 9 Dua Garis Saling Berpotongan 
+
+
+Garis g dan garis h adalah garis berpotongan karena memiliki titik potong di O, sehingga g×h. 
+Jika titik potong garis g dan garis h membentuk sudut siku- siku maka garis g dan garis h dikatakan dua garis yang berpotongan tegak lurus. Notasi dari berpotongan tegak lurus, yaitu ?. Sehingga dapat dituliskan g ? h. 
+
+Gambar 10 Dua Garis Berpotongan Tegak Lurus 
+2.4.3 Dua Garis Berhimpit
+Dua garis berhimpit adalah keadaan dimana terdapat kedua garis saling menempel dan searah sehingga mempunyai tak hingga titik persekutuannya. Oleh sebab itu, terkadang dua garis yang berhimpit terlihat seperti hanya ada satu garis. 
+
+Gambar 11 Dua Garis Berhimpit
+Terdapat garis k dan garis l yang berhimpit dikarenakan kedua garis tersebut saling menempel dan terlihat seperti satu garis serta mempunyai tak hingga titik persekutuan 
+
+
+2.5 Ringkasan 
+o Garis adalah kumpulan titik – titik yang tak terhingga banyaknya.
+o Titik terletak pada garis apabila titik tersebut berada pada garis sehingga titik tersebut menjadi bagian dari garis tersebut.
+o Titik yang tidak terletak pada garis tersebut sehingga titik terebut tidak menjadi bagian dari garis tersebut dan titik tersebut terletak di luar garis.
+o Garis terletak pada bidang apabila jika suatu garis terletak pada bidang sehingga garis tersebut menjadi bagian dari bidang.
+o Garis tidak terletak atau di luar bidang apabila jika letak suatu garis di luar bidang apabila garis tersebut  tidak menjadi bagian bidang.
+o Garis menembus/memotong bidang jika persekutuan antara garis dan bidang adalah sebuah titik.
+o Dua garis sejajar di bidang jika terdapat dua garis yang terletak pada satu bidang dan apabila dua garis tersebut diperpanjang maka garis tersebut tidak akan pernah berpotongan.
+o Dua garis dikatakan saling berpotongan apabila mempunyai titik persekutuan, titik persekutuan ini biasa disebut titik potong.
+o Dua garis berhimpit adalah keadaan dimana terdapat kedua garis saling menempel dan searah sehingga mempunyai tak hingga titik persekutuannya.
+
+2.6 Latihan 
+1. Perhatikan gambar di bawah ini ! Sebutkan pasangan garis mana yang saling sejajar, berpotongan dan berhimpit !
+
+Penyelesaian :
+Pasangan garis yang sejajar, yakni garis p dan garis q, garis y dan garis z, garis x dan garis w. Pasangan garis yang berpotongan, yakni garis x dan n, garis w dan garis n, garis y dan garis m, garis z dan garis m. Pasangan garis yang berhimpit, yakni garis x dan y, garis y dan garis p, garis w dan garis z, garis z dan garis q. 
+2.Jelaskan perbedaan dua garis berpotongan dengan dua garis berpotongan tegak lurus besertakan gambarnya !
+Perbedaan dua garis berpotongan dengan dua garis berpotongan tegak lurus adalah kalau dua garis berptongan tegak lurus titik potongnya membentuk sudut siku- siku sedangkan dua garis yang berpotongan saja titik potongnya tidak membentuk siku- siku. 
+
+
+
+2.7 Evaluasi 
+Pilihan Ganda 
+1. Perhatikan gambar berikut.
+
+Banyak ruas garis berbeda dari gambar di atas adalah . . . 
+a. 2
+b. 3 
+c. 4 
+d. 5 
+2. Sebuah garis dan bidang tidak terletak pada bidang yang sama dan tidak berpotongan, maka irisan keduanya menghasilkan...
+ a. sebuah titik 
+b. tak hingga titik 
+c. dua titik
+d. himpunan kosong
+3. Terdapat dua garis saling berpotongan dan tidak berhimpitan, maka perpotongannya berbentuk...
+a. titik 
+b. bidang 
+c. garis 
+d. ruang
+4.   Pernyataan yang salah dari pendapat berikut adalah . . . 
+a. dua garis sejajar tidak mempunyai titik potong 
+b. garis k sejajar bidang M apabila garis-garis yang terletak pada bidang M tidak berpotongan dengan garis k
+c. garis k tegak lurus bidang M apabila garis k tegak lurus garis-garis yang terletak pada bidang M.
+5. Jika suatu garis terletak pada bidang sehingga garis tersebut menjadi bagian dari bidang disebut...
+a. garis memotong bidang
+b. garis terletak di luar bidang
+c. garis menembus bidang
+d. garis terletak pada bidang 
+Essay
+1. Hubungan antara garis dan bidang ada tiga, yaitu .....
+2. Bagaimana keberadaan garis dengan titik, garis dengan bidang, dan garis dengan garis lainnya? Jelaskan !
+3. Jelaskan menurut pendapat kalian apakah boleh kita mengatakan 
+a. Garis adalah kumpulan titik-titik ? 
+b. Bidang adalah kumpulan titik-titik ? 
+c. Bidang adalah kumpulan garis-garis ? 
+d. Ruang adalah kumpulan garis-garis ?
+4. Gambarlah limas seempat ABCD.T 
+a. Sebutkan semua ruas garis yang saling sejajar. 
+b. Sebutkan semua ruas garis yang saling berpotongan 
+c. Adakah dua garis yang saling tegak lurus? Jelaskan. 
+d. Adakah dua garis yang saling bersilangan? Jelaskan. 
+5. Perhatikan gambar  balok ABCD.EFGH berikut.
+
+Diketahui titik P berada di tengah-tengah AB , titik Q di tengah-tengah BC , dan titik T di tengah-tengah PQ . Hubungkan titik H dangan titik R. Jika HR diperpanjang, maka apakah akan memotong perpanjangan FB ? Jelaskan dan tunjukkan. 
+
+BAB 3 : Mengenal Sudut 
+3.1 Peta Konsep 
+
+3.2 Pengertian Sudut 
+      Sudut terbentuk karena adanya pertemuan antara dua sinar garis yang bertemu pada sebuah titik. Suatu sudut terbentuk karena adanya perpotongan dari dua sinar garis yang berpotongan tepat di satu titik, sehingga titik potongnya disebut titik sudut.
+Secara sistematis, hubungan sinar garis dan titik sudut dapat digambarkan sebagai berikut :
+
+Gambar 12 Sudut yang Terbentuk dari Dua Sinar Garis
+      Nama suatu sudut bisa berupa simbol ?, ?, dan yang lainnya atau berdasarkan titik- titik yang melalui garis yang berpotongan tersebut. Biasanya, satuan sudut dinyatakan dalam dua jenis, yakni derajat (°) dan radian (rad). Nama sudut diberikan berdasarkan huruf- huruf yang ada pada ujung- ujung garis di sudut tertentu. Besar sudut satu putaran penuh adalah 360 ?. 
+      Contoh pada gambar 12 nama sudutnya adalah sudut ABC (?ABC) atau bisa juga sudut CBA(?CBA). Selain sudut ABC (?ABC) dan sudut CBA(?CBA) bisa juga disebut sudut B (?B).  Dan besar ?B dapat ditulis m?B. Sudut ABC ini terbentuk dari dua sinar garis, yaitu sinar BC dan sinar BA dan bertemu atau berhimpit di suatu titik yang disebut titik sudut B. 
+3.3 Jenis- Jenis Sudut 
+No.GambarKeterangan1. 
+Gambar 13 Sudut Lancip* Sudut lancip yang besarnya kurang dari seperempat putaran penuh.
+* Ukuran sudut lancip kurang dari 90 ? atau sudut yang besarnya antara 0 ? dan 90 ?.2. 
+Gambar 14 Sudut Siku- Siku* Sudut siku- siku adalah sudut yang besarnya seperempat putaran penuh.
+* Ukuran sudut siku- siku sebesar 90 ?.3. 
+Gambar 15 Sudut Tumpul* Sudut tumpul adalah sudut yang besarnya lebih dari seperempat putaran tetapi kurang dari setengah putaran.
+* Sudut tumpul memiliki ukuran sebesar anatara 90 ? dan 180 ?4. 
+Gambar 16 Sudut Lurus* Sudut lurus memiliki besar setengah putaran penuh.
+* Ukuran sudut lurus sebesar 1805. 
+Gambar 17 Sudut Refleks* Sudut refleks memiliki besar lebih dari setengah putaran akan tetapi kurang dari satu putaran penuh.
+* Sudut refleks memiliki ukuran sebesar antara 180 ? dan 360 ?.Tabel 3 Jenis- Jenis Sudut
+3.4 Mengukur Sudut
+Untuk mengukur sudut, secara manual dapat menggunakan alat ukur sudut yaitu busur. Alat ini digunakan untuk mengukur suatu sudut yang sudah terbentuk dan juga bisa digunakan untuk membentuk besar sudut yang akan digambar. 
+
+Gambar 18 Busur Derajat Alat untuk Mengukur Sudut
+Sumber : https://id.piliapp.com/static/s3/apps/protractor/protractor.png
+Alat ini dapat digunakan untuk mengukur suatu sudut yang sudah terbentuk dan juga bisa digunakan untuk membentuk besar sudut yang akan digambar.
+
+Gambar 19 Cara Mengukur Suatu Sudut dengan Busur Derajat
+Sumber : http://2.bp.blogspot.com/--CV73cs0KiY/UUN9p4a0B6I/AAAAAAAAMms/ba4h2A_cX98/s1600/3-16-2013+2-58-59+AM.png
+Cara mengukur sudut menggunakan busur derajat, pertama meletakkan busur derajat di atas gambar sudut. Selanjutnya, meletakkan titik pusat busur derajat di titik sudut pada gambar sudut yang diukur.
+      Misalnya, seperti gambar 21 mau mengukur sudut CAB maka titik pusat busur derajat diletakkan di titik A. Kemudian, perhatikan garis atau kaki sudut yang membentuk sudut itu. Cara membacanya, dimulai dari 0 derajat yang ada di sebelah kanan maupun kiri, tergantung pada bentuk gambar sudut. Karena menggunakan gambar 19 maka membaca angka dari sisi kanan yang menunjukkan kaki sudut menunjuk ke 60 derajat yang berarti m?CAB adalah 60?.
+
+
+3.5 Mengukur Besar Sudut yang Dibentuk oleh Jarum Jam
+
+Gambar 20 Mengukur Sudut yang Dibentuk Jarum Jam 
+Sumber : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdi0KJwhu3EH_9inGkLy32WuGCoNYHWgjv1g&usqp=CAU
+Pada jam, terdapat 12 angka yang bisa menjadi ruas untuk petunjuk menghitung sudut. Dalam 1 jam pergerakan jarum jam pendek jika berputar satu putaran penuh artinya jarum bergerak selama 12 jam atau 360?. Sehingga untuk mengetahui besar derajat di setiap ruasnya, maka :
+
+
+
+3.6 Ringkasan 
+* Suatu sudut terbentuk karena adanya perpotongan dari dua sinar garis yang berpotongan tepat di satu titik, sehingga titik potongnya disebut titik sudut.
+* Nama suatu sudut bisa berupa simbol ?, ?, dan yang lainnya atau berdasarkan titik- titik yang melalui garis yang berpotongan tersebut.
+* Satuan sudut dinyatakan dalam dua jenis, yakni derajat (°) dan radian (rad).
+* Nama sudut diberikan berdasarkan huruf- huruf yang ada pada ujung- ujung garis di sudut tertentu. 
+* Besar sudut satu putaran penuh adalah 360 ?. 
+* Sudut lancip kurang dari 90 ? atau sudut yang besarnya antara 0 ? dan 90 ?.
+* sudut siku- siku sebesar 90 ?.
+* Sudut tumpul memiliki ukuran sebesar anatara 90 ? dan 180 ?.
+* sudut lurus memiliki ukuran sebesar 180 ?.
+* Sudut refleks memiliki ukuran sebesar antara 180 ? dan 360 ?.
+* Busur adalah alat yang digunakan untuk mengukur suatu sudut yang sudah terbentuk dan juga bisa digunakan untuk membentuk besar sudut yang akan digambar.
+* Cara mengukur sudut menggunakan busur derajat, pertama meletakkan busur derajat di atas gambar sudut. Selanjutnya, meletakkan titik pusat busur derajat di titik sudut pada gambar sudut yang diukur.
+* Dalam mengukur besar sudut yang dibentuk oleh jarum jam dapat menghitung dengan 1 jam sama dengan 30?.
+
+
+3.7 Latihan
+1. Tentukan ukuran sudut yang dibentuk oleh jarum jam dan jarum menit ketika menunjukkan pukul 10.00. 
+
+Penyelesaian :
+Dengan memperhatikan Gambar 23, bisa dapat dilihat bahwa pada pukul 10.00, jarum jam menunjuk ke arah bilangan 10 dan jarum menit menunjuk ke arah bilangan 12, sehingga sudut yang terbentuk adalah 5/6 putaran penuh. 5/6 × 360 = 300° Jadi sudut yang terbentuk oleh jarum jam dan jarum menit ketika pukul 10.00 adalah 300°. 
+2. Tentukan besar sudut yang dibentuk oleh jarum jam dan jarum menit ketika menunjukkan pukul 04.00. 
+
+Penyelesaian :
+Dengan memperhatikan Gambar 24, bisa dapat dilihat bahwa pada pukul 04.00, jarum jam menunjuk ke arah bilangan 4 dan jarum menit menunjuk ke arah bilangan 12, sehingga sudut yang terbentuk adalah 1/3 putaran penuh. 1/3 × 360 = 120° Jadi sudut yang terbentuk oleh jarum jam dan jarum menit ketika pukul 04.00 adalah 120°. 
+
+
+
+3.8 Evaluasi 
+Pilihan Ganda 
+1. Sudut didefinisikan sebagai . . . 
+a. dua sinar garis yang berpotongan 
+b. dua sinar garis yang bersekutu pada pangkalnya 
+c. dua garis yang berpotongan 
+d. dua garis berimpit
+2. Alat untuk mengukur sebuah sudut dan satuan ukurannya adalah ...
+a. jangka dan derajat
+b. penggaris dan radian
+c. busur dan derajat
+d. jangka dan radian
+3. Sudut yang besarnya kurang dari seperempat putaran penuh adalah ...
+a. sudut siku- siku
+b. sudut refleks
+c. sudut tumpul
+d. sudut lancip
+4. Sudut yang memiliki besar setengah putaran penuh atau memiliki ukuran 180? disebut...
+a. sudut tumpul
+b. sudut siku- siku
+c. sudut komplemen
+d. sudut lurus
+5. Besar derajat di setiap ruas jam adalah ...
+a. 15?
+b. 30?
+c. 60?
+d. 45?
+Essay
+1. Cermatilah penggunaan jarum pendek dan jarum panjang, gambarkan ukuran sudut pada saat pukul 03.30; 06.00; dan 09.00.
+2. Tentukan besar sudut yang dibentuk oleh jarum jam dan jarum menit ketika jarum menunjukkan pukul 02.25.
+3. Nyatakanlah setiap sudut di bawah ini, apakah termasuk sudut lancip, tumpul, atau siku-siku. Serta gambarkan setiap sudut tersebut! 
+a. 1/3 sudut lurus 
+b. 2/5 putaran penuh 
+c. 180° ? 5/6 sudut lurus
+4. Jawablah pertanyaan berikut ini disertai dengan memberikan contoh. 
+a. Apakah dua sudut lancip ukurannya pasti sama? Jelaskan alasan kalian. 
+b. Apakah dua sudut siku-siku ukurannya pasti sama? Jelaskan alasan kalian. 
+c. Apakah dua sudut tumpul ukurannya pasti sama? Jelaskan alasan kalian.
+5. Ukurlah sudut di bawah ini dan tentukan jenis sudut pada gambar berikut sertakan penjelasan alasan kalian mengklasifikasikan sudut tersebut !
+a. 
+
+b. 
+
+c. 
+
+d.
+
+e. 
+
+
+BAB 4 : Hubungan Antar Sudut
+4.1 Peta Konsep 
+
+4.2 Sudut Berpelurus dan Sudut Berpenyiku
+4.2.1 Sudut Berpelurus
+Sudut berpelurus adalah dua sudut yang saling berpelurus (suplemen), dimana jumlah dua sudut tersebut membentuk sudut lurus yang berarti sudut tersebut berukuran 180?. Contoh : 
+
+Gambar 21 Sudut Berpelurus
+Sehingga jika Gambar 25 menunjukkan bahwa :
+ m? ABC = c° dan m? CBA’ = d°
+maka 
+c°+ d° = 180°
+c° = 90°- d°
+d° = 90°- c°
+4.2.2 Sudut Berpeyiku
+Sudut berpenyiku adalah dua sudut yang saling berpenyiku (berkomplemen), dimana jumlah dua sudut tersebut membentuk sudut siku- siku yang berarti sudut tersebut berukuran 90?. 
+
+Gambar 22 Sudut Berpenyiku
+Sehingga jika Gambar 26 menunjukkan bahwa :
+ m? ABC = a° dan m? CBA’ = b°
+maka 
+a°+ b° = 90°
+a° = 90°- b°
+b° = 90°- a°
+4.3 Pasangan Sudut yang Saling Bertolak Belakang
+Pasangan sudut yang saling bertolak belakang terjadi jika terdapat dua garis berpotongan sehingga dua sudut yang letaknya saling membelakangi titik potongnya disebut sebagai dua sudut yang bertolak belakang. Besar dari dua sudut yang saling bertolak belakang sama besar. 
+
+Gambar 23 Sudut yang Saling Bertolak Belakang
+Contoh pada gambar 27, pasangan ?p° dan ?r°dan pasangan ?q° dan ?s° merupakan sudut-sudut bertolak belakang. Selain itu, pada gambar tersebut, ?q° dan ?r°adalah pasangan sudut berpelurus dan ?r° dan ?s°a juga pasangan sudut berpelurus, sedemikian sehingga berlaku: 
+(1) q°+ r° = 180°, maka q° = 180° - r°
+(2) s °+ r° = 180°, maka s ° = 180° - r°
+Dari persamaan 1 dan 2 maka berlaku bahwa :
+q° = 180° - r°
+s ° = 180° - r°	-
+q° = s°
+Dan dengan menggunakan cara yang sama, dapat diperoleh bahwa p° = r° juga pasangan yang bertolak belakang. 
+4.4 Hubungan Sudut- Sudut pada Dua Garis Sejajar
+
+Gambar 24 Hubungan Sudut- Sudut pada Dua Garis Sejajar 
+Sumber : http://1.bp.blogspot.com/-shqpaZUZSOo/VmFJeBPsgwI/AAAAAAAACjo/dkrGXu43-YA/s1600/hubungan_sudut-sudut_pada_dua_garis_sejajar.PNG
+4.4.1 Sudut Sehadap
+Suatu sudut yang mempunyai posisi yang sama serta besarnya pun sama. Pada gambar 28, sudut yang sehadap yaitu:
+?P1=?Q1
+?P2=?Q2
+?P3=?Q3
+?P4=?Q4
+4.4.2 Sudut Dalam Bersebrangan 
+Suatu sudut yang terdapat dalam bagian dalam serta posisinya saling berseberangan. Dalam gambar 28 sudut dalam berseberangannya yaitu:
+?P4=?Q2
+?P3=?Q1
+4.4.3 Sudut Luar Bersebrangan 
+Suatu sudut yang terletak di bagian luar serta posisinya saling berseberangan.  Dalam gambar 28 sudut luar berseberangannya yaitu:
+?P1=?Q3
+?P2=?Q4
+4.4.4 Sudut Dalam Sepihak 
+Sudut yang terletak di bagian dalam serta posisinya terletak pada sisi yang sama. Jika dijumlahkan, sudut yang saling sepihak akan membentuk sudut 180°. Dalam gambar 28 sudut dalam sepihak yaitu:
+?P3+?Q2 = 180°
+?P4+?Q1 = 180°
+4.4.5 Sudut Luar Sepihak 
+Suatu sudut yang terletak di bagian luar serta posisinya terletak pada sisi yang sama. Jika dijumlahkan, sudut yang saling sepihak akan membentuk sudut 180°. Dalam gambar 28 sudut luar sepihak yaitu:
+?P1+?Q4 = 180°
+?P2+?Q3 = 180°
+4.4.6 Sudut Bertolak Belakang
+Merupakan suatu sudut yang posisinya saling bertolak belakang, pada gambar 28 sudut yang bertolak belakang yaitu:
+?P1 = ?P3
+?P2 = ?P4
+?Q1= ?Q3
+?Q2 = ?Q4
+(As’ari et al., 2018)
+(Tohir, 2017)
+(Ponidi & Nugroho, 2020)(Benjamin, 2019)(Sari & Refnywidialistuti, 2018)
+
+
+4.5 Ringkasan 
+* Sudut berpelurus adalah dua sudut yang saling berpelurus (suplemen), dimana jumlah dua sudut tersebut membentuk sudut lurus yang berarti sudut tersebut berukuran 180?.
+* Sudut berpenyiku adalah dua sudut yang saling berpenyiku (berkomplemen), dimana jumlah dua sudut tersebut membentuk sudut siku- siku yang berarti sudut tersebut berukuran 90?. 
+* Pasangan sudut yang saling bertolak belakang terjadi jika terdapat dua garis berpotongan sehingga dua sudut yang letaknya saling membelakangi titik potongnya disebut sebagai dua sudut yang bertolak belakang. Besar dari dua sudut yang saling bertolak belakang sama besar. 
+* Sudut sehadap adalah suatu sudut yang mempunyai posisi yang sama serta besarnya pun sama.
+* Sudut dalam bersebrangan adalah suatu sudut yang terletak di bagian luar serta posisinya saling berseberangan.
+* Sudut luar bersebrangan adalah suatu sudut yang terletak di bagian luar serta posisinya saling berseberangan.  
+
+4.6 Latihan 
+1. Tentukan nilai x nya 
+
+Penyelesaian :
+Karena garis k//l, akibatnya besar sudut 3x dengan besar sudut 60? membetuk susut berpelurus
+3x + 60	°= 180°
+3x	= 180 °– 60°
+3x	= 120°
+X	= 40°
+Jadi nilai x = 40°
+2. Tentukan nilai x nya 
+
+Penyelesaian:
+Maka sudut (2x + 10) dengan sudut 70? merupakan sudut sehadap, sehingga kedua sudut tersebut besarnya sama, yakni sebagai berikut.
+2x + 10 ° = 70°
+2x	= 70° – 10°
+2x	= 60°
+X	= 30°
+Jadi, nilai x = 30°
+3. Tentukan nilai x nya. 
+
+Penyelesaian :
+Sudut (2x + 10°) dengan sudut 30° merupakan sudut dalam sepihak, sehingga kedua 
+sudut membetuk sudut berpelurus, yakni sebagai berikut.
+(2x + 10) + 30° = 180°
+ 2x + 40° = 180°
+ 2x = 180° – 40°
+ 2x = 140°
+ x = 70°
+Jadi, nilai x = 70°
+
+
+
+4.7 Evaluasi 
+Pilihan Ganda 
+1.Perhatikan gambar berikut
+
+Besar sudut no 3 adalah 60° dan besar sudut nomor 5 adalah 85° maka besar sudut nomor 4 adalah...
+a. 130°
+b. 145°
+c. 150°
+d. 125°
+2.  Perhatikan gambar berikut 
+
+Besar sudut ?CAB adalah...
+a. 24°
+b. 48°
+c. 72°
+d. 81°
+3.Perhatikan gambar di bawah ini.
+
+Diketahui garis L1 sejajar garis L2 dan garis L3 sejajar garis L4 . Besar sudut y – x adalah ….
+a. 0°
+b. 10°
+c. 30°
+d. 50°
+4.Perhatikan gambar di bawah ini
+
+Nilai a adalah...
+a. 6°
+b. 16°
+c. 36°
+d. 56°
+5.Perhatikan gambar
+
+a. 5°
+b. 15°
+c. 35°
+d. 45°
+
+Essay
+1. Jika sudut A = 3/5 sudut B. 
+Hitunglah.
+a. m?A dan m?B jika keduanya saling berpelurus!
+b. Selisih m?A dan m?B, jika kedua sudut saling berpenyiku! 
+2.Sebutkanlah pasangan:
+a. Sudut-sudut sehadap.
+b. Sudut-sudut sepihak (dalam dan luar).
+c. Sudut-sudut berseberangan (dalam dan luar).
+
+3.Tentukan nilai a pada dua gambar berikut
+
+4. Jika m?A – m?B = 70°, dan m?A adalah tiga kali m?B. 
+Hitunglah! 
+a. m?A + m?B. 
+b. Pelurus sudut A.
+5. Perhatikan gambar berikut 
+
+Tentukanlah besar sudut: 
+a. ?ABC 
+b. ?ACB 
+c. ?ACG 
+d. ?FCG
+
+
+
+GLOSARIUM
+Bertolak Belakang 	: 	Sudut yang terbentuk dari dua garis yang saling berpotongan.
+Besar Sudut 	: 	Besarnya sudut pada bangun datar,dan setiap bangun datar memiliki besar yang berbeda beda. 
+Bidang 	: 	Permukaan datar dan dua dimensi. Sebuah bidang adalah analog dua dimensi dari titik (nol dimensi), garis (satu dimensi) dan ruang (tiga dimensi). Bidang dapat muncul sebagai subruang dari ruang dimensi yang lebih tinggi, misalnya dinding ruangan, atau berdiri sendiri.
+Busur 	: 	Sebuah alat yang bisa digunakan untuk mengukur dan membentuk sudut.
+Garis 	: 	Bentuk geometri yang tidak memiliki definisi - bisa direpresentasikan memiliki panjang tak terbatas, lurus, tidak mempunyai ketebalan, dan tidak mempunyai ujung. Garis tidak memiliki berujung dan tidak memiliki berpangkal, dan garis dapat diperpanjang pada kedua arahnya. Sebuah garis dapat diberi nama dengan huruf kecil, misalkan garis k, garis l, garis m, garis n, dan sebagainya.
+Himpunan Kosong 	: 	Himpunan kosong adalah himpunan yang tidak memiliki anggota dan penulisan lambangnya adalah {}.
+Irisan 	:  	Adanya himpunan A dengan B yang bagian-bagiannya juga merupakan anggota dari himpunan A dan himpunan B
+Jam 	: 	Alat untuk mengukur waktu (seperti arloji, lonceng dinding).
+Kaki Sudut 	: 	Sinar garis yang membentuk suatu sudut. 
+Komplemen 	: 	Sudut-sudut yang terdapat pada sebuah sudut siku-siku yang jika dijumlahkan besar sudutnya sama dengan 90o.
+Persekutuan 	: 	Suatu gabungan atau asosiasi dari dua hal yang berbeda.
+Putaran 	: 	Satuan besar sudut yang sama dengan 2? radian, 360 derajat atau 400 gradian.
+Ruang 	: 	Nama bagi bangunan-bangunan tiga dimensi atau bangunan yang mempunyai ruang yang dibatasi oleh sisi-sisinya
+Ruas 	:	Bagian antara jam 
+Sinar 	: 	Sebuah garis yang pada salah satu ujungnyadapat diperpanjang tanpa batas. Hal ini kerena sinar garis memiliki pangkal yang tidak memiliki ujung. 
+Sudut 	: 	Sudut adalah bangun yang dibuat oleh dua garis yang berpotongan di sekitar titik potongnya.
+Sudut Bersebrangan 	: 	Suatu sudut yang posisinya saling berhadapan letaknya.
+Sudut Sehadap 	: 	Sudut yang menghadap ke arah yang sama dan memiliki besar sudut yang sama.
+Sudut Siku- Siku 	: 	Sudut yang besarnya 90° terhadap satu putaran.
+Suplemen 	: 	Sudut-sudut yang terdapat pada sebuah sudut lurus yang jika dijumlahkan besar sudutnya sama dengan 180o.
+Tak Hingga 	: 	Tanpa batas-batas ukuran atau jumlah, tidak terbatas, tidak ada akhirnya.
+Tegak Lurus 	: 	Hubungan antara dua garis lurus yang bertemu di sebuah sudut tegak.
+Titik 	: 	Bentuk geometri yang tidak memiliki definisi - bisa direpresentasikan bentuk yang tidak memiliki ukuran, biasanya dideskripsikan menggunakan tanda noktah. Sebuah titik diberi penamaan dalam huruf kapital, misalkan titik P, titik Q, titik R, dan sebagainya.
+Titik Potong 	: 	Titik-titik di mana garis-garis yang mewakili suatu rentang nilai memotong sumbu-sumbu tersebut.
+Titik Sudut 	:  	Titik potong tangkal sinar dari kaki sudut.
+
+ 
+
+INDEKS
+
+B
+Bersebrangan, 28, 38
+Bertolak Belakang, 27, 29, 37
+Besar Sudut, 19, 37
+Bidang, 5, 6, 7, 37
+Busur, 18, 20, 37
+G
+Garis, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 28, 37
+H
+Himpunan Kosong, 37
+I
+Irisan, 37
+J
+Jam, 2, 19, 37
+K
+Kaki Sudut, 37
+Komplemen, 37
+N
+Notasi, 7, 8
+P
+Persekutuan, 37
+Putaran, 37
+R
+Ruang, 37
+Ruas, 37
+S
+Sehadap, 28, 38
+Siku- Siku, 16, 38
+Sinar, 15, 37, 38
+Sudut, 2, 3, 15, 16, 17, 18, 19, 20, 22, 25, 26, 27, 28, 29, 30, 32, 35, 37, 38, 39
+Suplemen, 38
+T
+Tak Hingga, 38
+Titik, 4, 5, 10, 38
+
+
+
+
+DAFTAR PUSTAKA
+
+Kelas_07_SMP_Matematika_Semester_2_Siswa_2016. In Angewandte Chemie International Edition, 6(11), 951–952. (3rd ed.). Pusat Kurikulum dan Perbukuan, Balitbang, Kemdikbud.
+Benjamin, W. (2019). PENINGKATAN HASIL BELAJAR DAN KEAKTIFAN SISWA MELALUI MODEL PEMBELAJARAN SCRAMBLE MATERI HUBUNGAN ANTAR GARIS PADA SISWA KELAS IV SDN I SUREN TAHUN PEMBELAJARAN (Vol. 3). INSTITUT AGAMA ISLAM NEGERI PONOROGO.
+Ponidi, & Nugroho, M. (2020). Matematika - Modul 7. Garis dan Sudut. In Direktorat Sekolah Menengah Pertama. Direktorat Sekolah Menengah Pertama, Direktorat Jenderal Pendidikan Usia Dini, Pendidikan Dasar, dan Pendidikan Menengah Kementerian Pendidikan dan Kebudayaan.
+Sari, N. Y., & Refnywidialistuti. (2018). DRAFT BAHAN AJAR MATERI GARIS DAN SUDUT UNTUK SD KELAS IV OLEH. In Angewandte Chemie International Edition, 6(11), 951–952.
+Tohir, M. (2017). Modul Garis dan Sudut (Issue August 2017). https://doi.org/10.13140/RG.2.2.35909.35048
+
+
+
+BIOGRAFI
+Aulia Kusuma Ningsih
+Lahir di Kota Bogor, Jawa Barat pada tanggal 24 April 2003 adalah mahasiswi, ia mahasiswi dari perguruan tinggi negeri Universitas Sultan Ageung Tirtayasa, Banten dengan program studi pendidikan matematika. Anak kedua dari tiga bersaudara ini memiliki  hobi membaca novel, menonton film/ drama, dan mendengarkan musik. 
+
+
+
+
+
+
+
+
+
+Aan Hendrayana
+Nama : Aan Hendrayana
+TTL: Serang, 24 Maret 1975
+Email : aanhendrayana@untirta.ac.id 
+Pekerjaan : Dosen di universitas Sultan Ageung Tirtayasa
+Bidang : Pembelajaran Matematika
+Tempat Tinggal : Serang, Banten
+
+
+
+
+
+Halaman | 1
+
+
